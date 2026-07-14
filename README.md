@@ -1,6 +1,5 @@
 # Lexicon-Based Sentiment Analysis on Indonesian Social Media Comments with Advanced Text Preprocessing
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/NAMA_REPOSITORI/blob/main/notebooks/sentiment_analysis_lexicon.ipynb)
 
 ## 📌 Project Overview
 Lembaga riset dan inovasi sering kali membutuhkan analisis sentimen publik untuk memahami tren atau respons masyarakat. Proyek ini berfokus pada **implementasi analisis sentimen berbasis leksikon (*Lexicon-Based Approach*)** pada data komentar media sosial berbahasa Indonesia. 
