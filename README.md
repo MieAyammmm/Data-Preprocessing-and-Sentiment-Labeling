@@ -32,4 +32,4 @@ Tantangan utama dari data media sosial adalah tingginya penggunaan bahasa non-fo
 ## 🚀 How to Use
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME/NAMA_REPOSITORI.git](https://github.com/USERNAME/NAMA_REPOSITORI.git)
+   git clone https://github.com/MieAyammmm/Data-Preprocessing-and-Sentiment-Labeling.git
